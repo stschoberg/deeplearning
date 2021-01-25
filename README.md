@@ -1,3 +1,3 @@
 # deeplearning
 
-Facial recogniton and clustering using python
+Deep learning playground notebooks. 
